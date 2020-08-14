@@ -1,6 +1,8 @@
-#Usage
+# Usage
 
+```bash
 python --test test.tsv --train train.tsv
+```
 
 
 # Output
